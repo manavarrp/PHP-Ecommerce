@@ -77,8 +77,8 @@ if($_POST){
         },
 
         client: {
-            sandbox: 'AV1MLL2fnOGBPmjjixRTzkcFSJTznj52QVXnaruGEzCL_KubZbrevQkLN28zxCCccdEPiueUuXt5qc3u',
-            production: ''
+            sandbox: 'se ingresa el tokens, si es a modo de prueba',
+            production: 'se ingresa el tokens, si es a modo de produccion'
         },
 
         // Configura la transaccion
